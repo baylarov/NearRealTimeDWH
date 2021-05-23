@@ -1,1 +1,1 @@
-# RealTimeSeedingDWH
+# Near Real Time Data Warehousing
